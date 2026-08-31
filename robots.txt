@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dovrsi.com.hr/sitemap.xml
